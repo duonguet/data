@@ -1,2 +1,2 @@
-machine_id|license_key|expire_date|note
-e5f5182b355ec31425c6adbff4ca74143594cf25371885f65415aa79530c33e9|41952e3bcf4cfd5ee25b87478b514148ba933b51fff5d2f44433eff47cbc210d|2025-06-08|duong
+license_key|expire_date|note
+41952e3bcf4cfd5ee25b87478b514148ba933b51fff5d2f44433eff47cbc210d|2025-06-08|duong
